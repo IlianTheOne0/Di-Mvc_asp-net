@@ -1,0 +1,10 @@
+﻿@page
+@model Di_Mvc_asp_net.Pages.CoinModel
+@{
+    ViewData["Title"] = "Coin";
+}
+
+<div class="text-center">
+    <h1 class="h1">Coin Page</h1>
+    <p class="text-body">Coin is @(Model.generatedData ? "flipped" : "not flipped")</p>
+</div>

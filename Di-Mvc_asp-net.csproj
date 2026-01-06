@@ -7,8 +7,4 @@
     <RootNamespace>Di_Mvc_asp_net</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>
